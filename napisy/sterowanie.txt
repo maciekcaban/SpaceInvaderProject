@@ -1,0 +1,5 @@
+Sterowanie:
+A 		 - ruch w lewo
+D 		 - ruch w prawo
+Space   - strzal
+S 		 - powrot do menu

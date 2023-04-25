@@ -1,0 +1,10 @@
+Najlepsi gracze:
+lama;2
+lama;4
+lama1;28
+lama2;23
+lama4;12
+asdasd213213123
+sadase3243244
+nowy;0
+lama;lam;12

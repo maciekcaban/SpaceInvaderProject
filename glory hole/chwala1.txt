@@ -1,0 +1,8 @@
+Najlepsi gracze:
+lama1;28
+lama2;23
+lama4;12
+lama;4
+lama;2
+nowy;0
+nowy gracz;0
